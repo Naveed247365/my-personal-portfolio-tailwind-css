@@ -18,12 +18,12 @@ export default function Home() {
 
         {/* Headline */}
         <h1 className="text-4xl md:text-5xl font-bold mb-4 animate-fade-in">
-          Hello, I'm Muhammad Naveed
+          Hi, I&apos;m Muhammad Naveed...
         </h1>
 
         {/* Intro Paragraph */}
         <p className="text-xl mb-8 animate-fade-in-delay max-w-2xl">
-          I’m a passionate full stack web developer focused on building fast, responsive, and scalable web applications using modern technologies. Welcome to my portfolio!
+          I&apos;m a passionate full stack web developer focused on building fast, responsive, and scalable web applications using modern technologies. Welcome to my portfolio!
         </p>
 
         {/* Buttons */}
