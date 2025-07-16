@@ -30,7 +30,7 @@ export default function About() {
               I love turning ideas into reality through clean code, scalable solutions, and smooth user experiences. Whether it’s crafting elegant UI components or developing robust backend APIs, I strive to deliver high-quality work that makes an impact.
             </p>
             <p className="mb-8">
-              When I&apos;m not coding..., you'll usually find me enjoying video games, watching tech videos, or learning new frameworks to sharpen my skills.
+              When I&apos;m not coding, you&apos;ll usually find me enjoying video games, watching tech videos, or learning new frameworks to sharpen my skills.
             </p>
             <a
               href="/Muhammad_Naveed.pdf"
